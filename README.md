@@ -22,7 +22,7 @@
 ### Screenshot
 
 <p align="center">
-  <img src="screenshots/1.png" />
+  <img src="screenshots/1.png" width="375" />
 </p>
 
 ---
